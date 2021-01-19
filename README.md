@@ -1,1 +1,1 @@
-# ghazle
+# ghazel
